@@ -1,4 +1,4 @@
-# VaRT - Vite and React with Typescript
+# VaRT - Vite and React with Typescript [![Vart Template Build](https://github.com/ArihantBapna/VartTemplate/actions/workflows/main.yml/badge.svg)](https://github.com/ArihantBapna/VartTemplate/actions/workflows/main.yml)
 This template is a starting point for building a React app with Typescript and Vite.
 
 It comes preconfigured with the following:
